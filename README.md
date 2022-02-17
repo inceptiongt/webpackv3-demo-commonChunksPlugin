@@ -1,18 +1,12 @@
-# webpack@4 dll demo
+# webpackv3-demo-commonChunksPlugin
 
 dll-plugin demo for webpack@4
 
 ## Usage
 
-build dll:
+build :
 ```sh
-yarn build:dll
+yarn build2
 
-yarn build:scope-dll
 ```
 
-build bundle with dll:
-```sh
-yarn build
-```
-# webpackv3-demo-commonChunksPlugin
